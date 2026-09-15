@@ -1,7 +1,4 @@
 
-Y para **Gestor de Servicios**:
-
-```markdown
 # 🛠️ Gestor de Servicios
 
 Programa desarrollado en Python para cargar, organizar y procesar
